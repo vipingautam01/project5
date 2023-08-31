@@ -36,6 +36,10 @@
 .grid-container{
     width: 100%;
 }
+
+.grid-container:hover{
+    width:120%;
+}
 .grid-container .grid-section{
     display: flex;
     flex-wrap: wrap;
